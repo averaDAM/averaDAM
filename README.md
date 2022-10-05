@@ -1,4 +1,4 @@
-__**### USER DESCRIPTION **__
+### __**USER DESCRIPTION**__
 
 ```java
 public class User
