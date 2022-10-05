@@ -2,6 +2,7 @@
 
 ```java
 public class User
+{
     private int age = 20;
     private String name = "Adrian"; 
     private String course = "1ºB DAM";
